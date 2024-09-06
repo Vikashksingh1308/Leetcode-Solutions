@@ -14,7 +14,6 @@
 
 public class FindTheDifference {
     public static void main(String[] args) {
-        // Test case
         Solution solution = new Solution();
         System.out.println(solution.findTheDifference("abcd", "abcde")); // Output: e
     }
