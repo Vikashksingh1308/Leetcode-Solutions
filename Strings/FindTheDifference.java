@@ -13,12 +13,12 @@
 
 public class FindTheDifference {
     public static void main(String[] args) {
-        Solution solution = new Solution();
-        System.out.println(solution.findTheDifference("abcd", "abcde")); // Output: e
+        Sol sol = new Sol();
+        System.out.println(sol.findTheDifference("abcd", "abcde")); // Output: e
     }
 }
 
-class Solution {
+class Sol {
     public char findTheDifference(String s, String t) {
         char result = 0;
 
