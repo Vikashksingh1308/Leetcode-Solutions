@@ -20,7 +20,7 @@ public class SearchString {
 }
 
 class Find {
-    public static int strStr(String haystac, String needl) {
-        return haystac.indexOf(needl);
+    public static int strStr(String s1, String s2) {
+        return s1.indexOf(s2);
     }
 }
