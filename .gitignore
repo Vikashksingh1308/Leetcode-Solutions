@@ -7,3 +7,5 @@ Leetcode-Solutions.iml
 
 # Ignore compiled Java files
 out/
+target/
+*.class
